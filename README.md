@@ -17,5 +17,5 @@ This open-source database will be useful for researchers and developers working 
 The repository is organized as follows:
 - High emotional stimuli: contains the data of all the stimuli used to elicit an emotional response in the subjects during landmarks recording.
 - Subject data: contains the main characteristics of the subjects participating in the test associated with the identification code that is also reported in the data file.
-- Raw data: contains the data collected without any elaboration. The data are listed with the user identification number, the name of the images presented to the users, their choices, and the raw coordinates of the 68 landmarks extraxted.
+- Raw data: contains the data collected without any elaboration. The data are listed with the user identification number, the name of the images presented to the users, their choices, and the raw coordinates of the 68 landmarks extracted.
 - Processed data: contains the data that have been elaborated using a normalization procedure of the coordinates and an extraction of 22 points identified as informative points based on the FACS manual. This data are listed with the user identification number, the label of the images used to elicit the emotional response, the users' choices of emotions, and the coordinates of the 22 informative points.
